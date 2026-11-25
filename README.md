@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 25-11-2026
+## Reference Number: 26008707
+## Name: Vansigaa Neasan E
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -13,40 +13,39 @@ Ministry of Consumer Affairs, Food & Public Distribution
 Agriculture, FoodTech & Rural Development
 
 ## Problem Description
-Expected Solution: Create a digital marketplace that:
 
-• Connects farmers/FPOs directly with consumers and bulk buyers.
-• Provides logistics support.
-• Uses AI for demand forecasting and route optimization.
+Farmers often depend on multiple intermediaries to sell their products, resulting in lower profits for farmers and higher prices for consumers. The lack of direct connections, proper logistics and demand prediction also leads to supply chain inefficiencies and food wastage.
 
 Benefits:
 
-• Better prices for farmers.
+• Better profits for farmers.
 • Lower prices for consumers.
-• Reduced supply chain inefficiencies.
+• Direct connection between farmers and buyers.
+• Reduced food wastage.
+• Faster and efficient delivery.
+• Improved supply chain management.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+Develop a digital platform that connects farmers directly with consumers and bulk buyers. It helps farmers sell their products without middlemen, ensuring fair prices and easy transactions.
+
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+![alt text](<sih flowchart.png>)
+
+Use Python, AI, machine learning and a web application to develop the platform. AI will predict market demand, while route optimization will help in efficient product delivery.
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+The solution is practical and can be implemented using existing digital technologies. Challenges like transportation, storage and internet access can be managed through logistics partnerships and simple platform features.
+
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Farmers can earn better profits, consumers can purchase products at lower prices, and delivery efficiency can be improved. It also reduces food wastage and unnecessary transportation costs.
+
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+
+1. https://www.india.gov.in/
+2. https://www.enam.gov.in/
+3. https://agriwelfare.gov.in/
